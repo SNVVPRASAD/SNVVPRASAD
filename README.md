@@ -6,7 +6,7 @@
 
 ## About Me
 
-Results-driven **AI/ML Engineer** with **4+ years** of hands-on expertise in developing, deploying, and optimizing end-to-end machine learning solutions for **healthcare imaging** and **financial fraud detection**. Passionate about leveraging cutting-edge ML techniques to solve complex business problems at scale.
+Results-driven **AI/ML Engineer** with **5+ years** of hands-on expertise in developing, deploying, and optimizing end-to-end machine learning solutions for **healthcare imaging** and **financial fraud detection**. Passionate about leveraging cutting-edge ML techniques to solve complex business problems at scale.
 
 **At Philips Healthcare**: Spearheading computer vision pipelines using PyTorch & AWS SageMaker, boosting diagnostic accuracy by **28%** and slashing inference time by **40%**.
 
