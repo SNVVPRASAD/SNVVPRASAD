@@ -43,7 +43,7 @@ Results-driven **AI/ML Engineer** with **5+ years** of hands-on expertise in dev
 ##  Professional Experience
 
 ###  **Philips Healthcare** | AI/ML Engineer
-**Orlando, FL | Dec 2024 - Present**
+**Orlando, FL | Dec 2023 - Present**
 
 - Engineered **computer vision models** for medical image analysis, processing **10K+ X-ray scans daily** with **92% precision**
 - Achieved **28% accuracy uplift** in CNN architectures (ResNet, YOLOv8) for lung disease detection
