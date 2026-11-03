@@ -42,7 +42,7 @@ Real-time inference · GPU optimization
 ##  Professional Experience
 
 ###  **Philips Healthcare** | AI/ML Engineer (Contract)
-**Remote | Dec 2023 - Present**
+**Remote | Dec 2024 - Present**
 
 - Cut inference latency **13x (2s → 150ms per scan)** at **10K+ scans/day** with no loss in precision by converting PyTorch models to **TensorRT** and rebuilding model serving as containerized **FastAPI** services on on-prem GPU edge devices
 - Cut model release-candidate turnaround from **4 weeks to 1** by building ML CI/CD with **GitHub Actions, Jenkins, Docker and Kubernetes**, an **MLflow** model registry, and regression tests on a locked validation set
